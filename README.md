@@ -2,8 +2,6 @@
 
 ## Description
 
----
-
 ### What is this ?
 
 Here is a simple Express MVC template for use in creating a basic personal website.
@@ -14,8 +12,6 @@ Here is a simple Express MVC template for use in creating a basic personal websi
 2. npm 
 
 ## Usage
-
----
 
 ### Setup
 
